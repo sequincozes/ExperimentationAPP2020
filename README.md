@@ -44,8 +44,7 @@ Check Create project from existing sources and click Next / Yes until finished, 
 <h3> Technologies used </h3>
 
 <ul>
-   <li> Back-end: <b> Java </b></li> 
-   <li> Front-end: <b> XML </b></li> 
+   <li><b> Java & XML (view) </b></li> 
    <li> Build automation system: <b> Gradle </b></li> 
    <li> IDE with SDK for Android development: <b>Android Studio</b> </li> 
 </ul>
